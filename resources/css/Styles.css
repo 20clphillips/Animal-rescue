@@ -1,0 +1,175 @@
+html,body{
+  background-color:#82eedd;
+  font-style: italic;
+  text-align: center;
+
+
+}
+
+p{
+  font-style:italic;
+  text-align: center;
+}
+
+.button {
+  color: #FF8C00;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  width: auto;
+  margin: 5px, auto;
+  height:auto;
+}
+
+h1{
+  font-weight: bold;
+  text-align: center;
+  background-color:#FF8000;
+
+}
+
+.div{
+ background-color: #45E4F6;
+ text-align: right;
+ font-size-adjust: auto;
+ height: 200px;
+     width: 100%;
+}
+
+center{
+  font-weight: bold;
+}
+
+img{
+
+  float:left;
+}
+
+.example {
+  border: 1px;
+  border-color: black;
+  border-style: dashed;
+  height: 400px;
+}
+
+div.Canada.Lynx{
+  height: 320px;
+   width: 800px;
+   background-color: #45E4F6;
+   direction: rtl;
+   position: relative;
+
+
+}
+
+div.truefoxes{
+  height: 320px;
+   width: 800px;
+   background-color: #45E4F6;
+}
+div.RedWolf{
+  height: 320px;
+   width: 800px;
+   background-color: #45E4F6;
+}
+
+div.Canada.Lynx1{
+  height: 250px;
+   width: 820px;
+   background-color: #45E4F6;
+
+}
+div.True.Foxes1{
+  height: 350px;
+   width: 820px;
+   background-color: #45E4F6;
+   border: 1px;
+
+}
+div.Red.Wolf1{
+  height: 250px;
+   width: 820px;
+   border:1px;
+   background-color: #45E4F6;
+}
+ div#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
+.TF1{
+  position: relative;
+    top: 10px;
+    left: 10px;
+
+}
+
+.RW1{
+  position: relative;
+    top: auto;
+    left: 15px;
+    right: 25px;
+}
+
+.CL1{
+  position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.TF{
+  position: relative;
+    top: 10px;
+    left: 6px;
+}
+
+.RW{
+  position: relative;
+    top: 10px;
+    left: 5px;
+}
+
+.CL{
+  position: relative;
+    top: 10px;
+    left: 6px;
+}
+
+.intro{
+  position: relative;
+    top: 10px;
+    left: 10px;
+
+}
+
+.CLP{
+  position: relative;
+  left: 9px;
+}
+
+.TF2{
+  position: relative;
+  left: 7px;
+}
+
+.RW2{
+  position: relative;
+  left: 7px;
+}
+
+.TF01{
+  position: relative;
+  left: 7px;
+}
+
+.CL01{
+  position: relative;
+  left: 9px;
+}
+
+.TF01{
+  position: relative;
+  left: 11px;
+}
